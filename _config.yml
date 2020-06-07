@@ -22,7 +22,7 @@ title: 口琴伴奏
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  这个网站主要是用来分享口琴伴奏曲
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "dxp432" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
