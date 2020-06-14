@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "用其他调口琴吹的曲目"
+date:   2020-06-12 01:41:10 +0800
+category: Harmonica
+---
+
+# 请用D调口琴一把位吹奏以下歌曲：
+
+D调伴奏《忽然之间》：
+<audio id="audio" controls="" preload="none"><source id="mp3" src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb213UmVFb1J6XzNnc3BmS21YOXJCRGFrNnIzQVE/ZT1qemNTcGU=.mp3"></audio>
+
