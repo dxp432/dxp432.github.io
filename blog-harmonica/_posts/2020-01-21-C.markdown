@@ -12,3 +12,7 @@ category: Harmonica
 
 伴奏《隐形的翅膀》：
 <audio id="audio" controls="" preload="none"><source id="mp3" src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb213UmVFb1J6XzNnc3R6Q0JEV2p3TzBLTGlNckE/ZT01cFpHYm0=.mp3"></audio>
+
+
+吉他谱《约定》：
+![avatar](https://github.com/dxp432/Cloud-disk/blob/master/img/%E7%BA%A6%E5%AE%9A%E5%90%89%E4%BB%96%E8%B0%B1.jpg?raw=true)

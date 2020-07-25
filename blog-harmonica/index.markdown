@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home-harmonica
-title: "口琴"
+title: "口琴与吉他"
 categories: Harmonica
 ---
