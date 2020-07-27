@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home-tech
-title: "Tech Blog"
+title: "编程技术"
 categories: Tech
 ---
